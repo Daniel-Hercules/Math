@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\Math\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
